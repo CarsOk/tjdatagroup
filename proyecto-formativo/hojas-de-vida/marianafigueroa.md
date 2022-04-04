@@ -1,6 +1,6 @@
 # HOJA DE VIDA
 
- !(Mi foto)[imagenes/marianafi.png] 
+ ![Mi foto](imagenes/marianafi.png) 
 
 ## **DATOS PERSONALES**
 
