@@ -1,2 +1,0 @@
-# tjdatagroup
-Tj Data Group
