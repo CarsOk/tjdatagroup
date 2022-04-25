@@ -1,2 +1,7 @@
-# tjdatagroup
-Tj Data Group
+# TJDataGroup
+##### Integrantes:
+- Shelcy Hernandez
+- Juan Zapata
+- Dayro Gamarra
+- Fernando Castro
+- Mariana Figueroa
