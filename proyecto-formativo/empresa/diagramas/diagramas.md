@@ -1,3 +1,4 @@
+# DIAGRAMAS
 1 . [Casos de Uso](#id1)
 - 1.1  [Casos de uso: Registro de cuenta](#id2)
 - 1.2  [Casos de uso: Inicio de Sesión](#id3)
@@ -8,6 +9,8 @@
 2 . [Diagrama Modelo Entidad-Relación](#id7)
 
 3 . [Diagrama de Clases](#id8)
+
+4 . [Diagrama ER](#id9)
 
 # CASOS DE USO <a name="id1"></a>
 ![Caso de uso](img/cdu.png)
@@ -27,6 +30,8 @@
 ![Caso de uso](img/tcdu_venta_de_productos.png)
 ![diagrama de actividades](img/venta_de_productos.png)
 # DIAGRAMA MODELO ENTIDAD-RELACION  <a name="id7"></a>           
-![diagrama entidad relacion](img/Der.png)
+![diagrama entidad relacion](img/Dmer.png)
 # DIAGRAMA DE CLASES <a name="id8"></a>
 ![diagrama de clases](img/ddc.png)
+# DIAGRAMA ER <a name="id9"></a>
+![diagrama er](img/der.png)
