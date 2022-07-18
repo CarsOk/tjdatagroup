@@ -1,7 +1,7 @@
 ## Programacion Con Proposito
 ### Producto: MarkEch
 ### Empresa: TJDataGroup
-
+![Logotipo](proyecto-formativo/empresa/logotipo.png)
 ##### Integrantes:
 - Shelcy Hernandez
 - Juan Zapata
