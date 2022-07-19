@@ -1,10 +1,14 @@
-# TJDataGroup
+## Programacion Con Proposito
+### Producto: MarkEch
+### Empresa: TJDataGroup
+![Logotipo](proyecto-formativo/empresa/logotipo.png)
 ##### Integrantes:
 - Shelcy Hernandez
 - Juan Zapata
 - Dayro Gamarra
-- Fernando Castro
 - Mariana Figueroa
+- Fernando Castro
+
 
 ## Proyecto Formativo
 1. [Empresa (empresa)](https://github.com/CarsOk/tjdatagroup/tree/develop/proyecto-formativo/empresa)
